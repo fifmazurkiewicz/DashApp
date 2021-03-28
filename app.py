@@ -1,3 +1,8 @@
+"""
+A simple application which presents
+a dashboard written in dash and an example of its use in the form of several graphs.
+"""
+
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
@@ -9,7 +14,6 @@ from dash.dependencies import Input, Output, State
 # Load data
 df = pd.read_csv(r'top100richest_prepr.csv', sep='\t')
 mapbox_access_token = 'your token'
-
 
 # Initialize the app
 app = dash.Dash(__name__)
