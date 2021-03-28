@@ -9,7 +9,7 @@ from dash.dependencies import Input, Output, State
 # Load data
 df = pd.read_csv(r'top100richest_prepr.csv', sep='\t')
 mapbox_access_token = 'your token'
-# top100richest
+
 
 # Initialize the app
 app = dash.Dash(__name__)
