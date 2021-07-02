@@ -12,7 +12,7 @@ import plotly.graph_objects as go
 from dash.dependencies import Input, Output, State
 
 # Load data
-df = pd.read_csv(r'D:\Odys#24\projekty\dash/top100richest_prepr.csv', sep='\t')
+df = pd.read_csv(r'top100richest_prepr.csv', sep='\t')
 mapbox_access_token = 'your token'
 
 # Initialize the app
