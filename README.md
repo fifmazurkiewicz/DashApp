@@ -10,5 +10,5 @@ Implemented functions:
 - map with the number of richest people for a specific year
 
 ## Example 
-![top10 country chart](https://github.com/fifmazurkiewicz/DashApp/images/top10country.jpg)
-![search name chart](https://github.com/fifmazurkiewicz/DashApp/images/searchname.jpg)
+![top10 country chart](https://github.com/fifmazurkiewicz/DashApp/blob/main/images/top10country.jpg)
+![search name chart](https://github.com/fifmazurkiewicz/DashApp/blob/main/images/searchname.jpg)
